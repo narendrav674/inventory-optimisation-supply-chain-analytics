@@ -1,0 +1,201 @@
+supplier_id,supplier_name,city,lead_time_days,rating
+SUP_001,Apex Consumer Goods,Lucknow,7,1.9
+SUP_002,Apex Enterprises,Pune,1,2.3
+SUP_003,Apex Essentials,Kolkata,4,4
+SUP_004,Apex Logistics,Lucknow,13,3.6
+SUP_005,Apex Products,Mumbai,4,4.4
+SUP_006,Apex Traders,Gurgaon,14,3.6
+SUP_007,Blue Consumer Goods,Kolkata,5,3.3
+SUP_008,Blue Distributors,Kolkata,7,1.4
+SUP_009,Blue Logistics,Lucknow,7,2.5
+SUP_010,Blue Merchants,Noida,13,2.1
+SUP_011,Blue Partners,Mumbai,11,2
+SUP_012,Blue Supplies,Lucknow,13,4.9
+SUP_013,Blue Wholesale,Mumbai,4,2.6
+SUP_014,Capital Brands,Mumbai,13,4.6
+SUP_015,Capital Distributors,Gurgaon,7,3.5
+SUP_016,Capital Foods,Kolkata,11,4.2
+SUP_017,Capital Merchants,Pune,3,3
+SUP_018,Capital Products,Gurgaon,6,3.3
+SUP_019,Capital Supplies,Gurgaon,12,3
+SUP_020,Daily Agro,Mumbai,2,1.8
+SUP_021,Daily Consumer Goods,Chennai,10,3.9
+SUP_022,Daily Essentials,Kolkata,13,2.1
+SUP_023,Daily Products,Noida,14,1.1
+SUP_024,Daily Traders,Gurgaon,9,3.6
+SUP_025,Eco Agro,Pune,5,1.7
+SUP_026,Eco Distributors,Chennai,6,4.8
+SUP_027,Eco Enterprises,Chennai,12,4.8
+SUP_028,Eco Essentials,Noida,12,4.7
+SUP_029,Eco Partners,Gurgaon,12,2.5
+SUP_030,Eco Products,Pune,12,1.1
+SUP_031,Eco Supplies,Kolkata,4,4.7
+SUP_032,Eco Traders,Delhi,14,2.7
+SUP_033,Elite Agro,Pune,14,4.9
+SUP_034,Elite Brands,Noida,11,4.9
+SUP_035,Elite Enterprises,Chennai,10,4.4
+SUP_036,Elite Products,Kolkata,7,2.2
+SUP_037,Elite Retail Links,Pune,12,2.5
+SUP_038,Elite Traders,Delhi,9,4.4
+SUP_039,Elite Wholesale,Delhi,7,2.3
+SUP_040,Ever Brands,Mumbai,14,
+SUP_041,Ever Consumer Goods,Mumbai,1,3.2
+SUP_042,Ever Retail Links,Lucknow,1,4.7
+SUP_043,Ever Traders,Noida,9,3.8
+SUP_044,Ever Wholesale,Gurgaon,11,3.3
+SUP_045,Fresh Consumer Goods,Pune,14,1.4
+SUP_046,Fresh Distributors,Pune,9,3.5
+SUP_047,Fresh Enterprises,Gurgaon,4,5
+SUP_048,Fresh Foods,Lucknow,13,1.6
+SUP_049,Fresh Partners,Chennai,9,3.1
+SUP_050,Fresh Products,Chennai,3,4.5
+SUP_051,Fresh Supplies,Lucknow,7,4
+SUP_052,Golden Brands,Chennai,6,3.8
+SUP_053,Golden Distributors,Mumbai,8,3.8
+SUP_054,Golden Enterprises,Pune,11,2.4
+SUP_055,Golden Essentials,Lucknow,9,
+SUP_056,Golden Foods,Pune,14,4.2
+SUP_057,Golden Partners,Gurgaon,5,4.2
+SUP_058,Golden Products,Delhi,1,4.5
+SUP_059,Golden Wholesale,Mumbai,3,4.7
+SUP_060,Green Brands,Kolkata,10,3
+SUP_061,Green Distributors,Mumbai,12,3
+SUP_062,Green Logistics,Lucknow,8,4.2
+SUP_063,Green Merchants,Kolkata,11,3.6
+SUP_064,Green Partners,Delhi,6,3.8
+SUP_065,Green Retail Links,Lucknow,8,4.2
+SUP_066,Green Wholesale,Noida,9,4.6
+SUP_067,Horizon Agro,Pune,4,2.4
+SUP_068,Horizon Enterprises,Delhi,1,
+SUP_069,Horizon Essentials,Pune,14,1.4
+SUP_070,Horizon Merchants,Chennai,1,3.3
+SUP_071,Horizon Products,Noida,10,1.1
+SUP_072,Horizon Supplies,Noida,4,2.9
+SUP_073,Horizon Traders,Delhi,12,3.2
+SUP_074,Metro Agro,Noida,14,2.1
+SUP_075,Metro Consumer Goods,Kolkata,7,3.4
+SUP_076,Metro Essentials,Noida,2,1.1
+SUP_077,Metro Foods,Pune,3,1.1
+SUP_078,Metro Merchants,Pune,1,4.3
+SUP_079,Metro Retail Links,Lucknow,5,
+SUP_080,Metro Wholesale,Pune,1,1.5
+SUP_081,Nova Brands,Lucknow,8,3.1
+SUP_082,Nova Distributors,Pune,1,4.1
+SUP_083,Nova Merchants,Kolkata,11,1.9
+SUP_084,Nova Partners,Gurgaon,1,3.5
+SUP_085,Nova Retail Links,Lucknow,2,1.3
+SUP_086,Nova Traders,Mumbai,2,1.2
+SUP_087,Prime Brands,Chennai,12,3.1
+SUP_088,Prime Foods,Delhi,6,3.2
+SUP_089,Prime Traders,Pune,7,
+SUP_090,Prime Wholesale,Noida,5,3.9
+SUP_091,Quality Agro,Gurgaon,1,4.9
+SUP_092,Quality Brands,Pune,1,3.1
+SUP_093,Quality Consumer Goods,Noida,3,
+SUP_094,Quality Distributors,Chennai,14,4.2
+SUP_095,Quality Logistics,Chennai,2,2.1
+SUP_096,Quality Partners,Chennai,5,2.8
+SUP_097,Quality Traders,Noida,12,1.3
+SUP_098,Quality Wholesale,Pune,10,
+SUP_099,Rapid Brands,Chennai,6,4.9
+SUP_100,Rapid Consumer Goods,Kolkata,7,4.3
+SUP_101,Rapid Distributors,Lucknow,4,3.8
+SUP_102,Rapid Merchants,Noida,7,2.6
+SUP_103,Rapid Products,Noida,11,
+SUP_104,Rapid Supplies,Pune,8,
+SUP_105,Rapid Traders,Noida,11,2
+SUP_106,Reliance Brands,Noida,1,
+SUP_107,Reliance Enterprises,Chennai,6,3.9
+SUP_108,Reliance Foods,Pune,8,3.6
+SUP_109,Reliance Retail Links,Chennai,5,2.1
+SUP_110,Reliance Supplies,Lucknow,4,
+SUP_111,Reliance Traders,Gurgaon,2,4
+SUP_112,Reliance Wholesale,Lucknow,6,3.2
+SUP_113,Royal Consumer Goods,Gurgaon,6,3.4
+SUP_114,Royal Essentials,Chennai,11,2.7
+SUP_115,Royal Foods,Lucknow,1,2
+SUP_116,Royal Logistics,Pune,9,2.4
+SUP_117,Royal Products,Delhi,12,4
+SUP_118,Royal Retail Links,Chennai,11,1.1
+SUP_119,Royal Supplies,Gurgaon,6,1.5
+SUP_120,Royal Traders,Kolkata,13,1.2
+SUP_121,Secure Essentials,Gurgaon,3,1.2
+SUP_122,Secure Merchants,Kolkata,4,4.4
+SUP_123,Secure Partners,Noida,12,3.8
+SUP_124,Secure Supplies,Lucknow,11,2.9
+SUP_125,Shree Agro,Kolkata,4,
+SUP_126,Shree Distributors,Gurgaon,3,3
+SUP_127,Shree Essentials,Noida,10,2.9
+SUP_128,Shree Products,Delhi,3,1.7
+SUP_129,Shree Wholesale,Pune,3,
+SUP_130,Smart Consumer Goods,Pune,4,2.6
+SUP_131,Smart Distributors,Pune,7,3.5
+SUP_132,Smart Essentials,Kolkata,4,3.5
+SUP_133,Smart Foods,Delhi,9,1.2
+SUP_134,Smart Merchants,Kolkata,1,2.5
+SUP_135,Smart Retail Links,Lucknow,8,3.5
+SUP_136,Smart Supplies,Kolkata,7,3
+SUP_137,Smart Traders,Delhi,2,4.4
+SUP_138,Speed Consumer Goods,Delhi,8,3.6
+SUP_139,Speed Distributors,Lucknow,1,1.7
+SUP_140,Speed Enterprises,Delhi,11,1.3
+SUP_141,Speed Foods,Gurgaon,12,3.6
+SUP_142,Speed Partners,Delhi,9,1.1
+SUP_143,Speed Retail Links,Pune,9,3.3
+SUP_144,Speed Supplies,Gurgaon,2,4.8
+SUP_145,Speed Traders,Gurgaon,7,3.3
+SUP_146,Speed Wholesale,Lucknow,14,2.6
+SUP_147,Star Agro,Mumbai,10,3.6
+SUP_148,Star Brands,Mumbai,3,
+SUP_149,Star Enterprises,Delhi,7,3.2
+SUP_150,Star Essentials,Gurgaon,12,4.8
+SUP_151,Star Logistics,Mumbai,10,2.5
+SUP_152,Star Merchants,Mumbai,9,4.8
+SUP_153,Star Traders,Delhi,4,4.6
+SUP_154,Star Wholesale,Mumbai,12,1.8
+SUP_155,Sunrise Brands,Kolkata,1,1.3
+SUP_156,Sunrise Distributors,Noida,2,1.4
+SUP_157,Sunrise Enterprises,Lucknow,1,1.1
+SUP_158,Sunrise Logistics,Noida,14,1.4
+SUP_159,Sunrise Merchants,Delhi,12,3.7
+SUP_160,Sunrise Retail Links,Pune,5,
+SUP_161,Sunrise Traders,Lucknow,5,2.3
+SUP_162,Sunrise Wholesale,Delhi,11,4.4
+SUP_163,Swift Brands,Gurgaon,7,1.1
+SUP_164,Swift Distributors,Pune,9,4.3
+SUP_165,Swift Essentials,Noida,9,2.1
+SUP_166,Swift Logistics,Delhi,3,1.5
+SUP_167,Swift Traders,Gurgaon,3,3.8
+SUP_168,Unity Agro,Lucknow,3,3.5
+SUP_169,Unity Brands,Lucknow,4,4.5
+SUP_170,Unity Essentials,Chennai,8,3.9
+SUP_171,Unity Foods,Gurgaon,6,
+SUP_172,Unity Supplies,Kolkata,8,2.1
+SUP_173,Urban Agro,Mumbai,1,1.7
+SUP_174,Urban Brands,Pune,8,4
+SUP_175,Urban Essentials,Gurgaon,4,4.2
+SUP_176,Urban Foods,Chennai,11,5
+SUP_177,Urban Logistics,Mumbai,1,2.7
+SUP_178,Urban Products,Mumbai,8,2.5
+SUP_179,Urban Traders,Delhi,4,4.1
+SUP_180,Value Agro,Mumbai,6,2.4
+SUP_181,Value Consumer Goods,Kolkata,8,4.7
+SUP_182,Value Essentials,Lucknow,4,4.4
+SUP_183,Value Foods,Chennai,14,2.7
+SUP_184,Value Traders,Mumbai,3,4
+SUP_185,Value Wholesale,Delhi,14,4
+SUP_186,Zen Agro,Kolkata,9,1.4
+SUP_187,Zen Brands,Noida,3,4.6
+SUP_188,Zen Enterprises,Lucknow,9,3
+SUP_189,Zen Products,Lucknow,13,4.3
+SUP_190,Zen Retail Links,Chennai,2,2.3
+SUP_191,Zen Traders,Lucknow,14,4.6
+SUP_192,Zen Wholesale,Mumbai,2,2.6
+SUP_193,Zest Agro,Delhi,2,1
+SUP_194,Zest Brands,Lucknow,6,4.6
+SUP_195,Zest Consumer Goods,Lucknow,3,1.4
+SUP_196,Zest Distributors,Noida,13,2.3
+SUP_197,Zest Foods,Noida,9,4.8
+SUP_198,Zest Merchants,Pune,4,4.8
+SUP_199,Zest Retail Links,Kolkata,1,3.3
+SUP_200,Zest Traders,Mumbai,4,3.5
